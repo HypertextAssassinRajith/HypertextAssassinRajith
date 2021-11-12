@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajith Sanjaya</h1>
-<h3 align="center">A  developer from Small Country Sri Lanka</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypertext-assassin-rss&label=Profile%20views&color=0e75b6&style=flat" alt="hypertext-assassin-rss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypertext-assassin-rss" alt="hypertext-assassin-rss" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajithsanjaya" target="blank"><img src="https://img.shields.io/twitter/follow/rajithsanjaya?logo=twitter&style=for-the-badge" alt="rajithsanjaya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sanjaya_rajith" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaya_rajith?logo=twitter&style=for-the-badge" alt="sanjaya_rajith" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hypertext-Assassin-RSS](https://github.com/Hypertext-Assassin-RSS)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajithsanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajithsanjaya" height="30" width="40" /></a>
+<a href="https://twitter.com/sanjaya_rajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaya_rajith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjayasenanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjayasenanayaka" height="30" width="40" /></a>
 <a href="https://fb.com/rajith sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajith sanjaya" height="30" width="40" /></a>
 <a href="https://instagram.com/rajith sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajith sanjaya" height="30" width="40" /></a>
