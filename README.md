@@ -25,6 +25,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sanjaya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sanjaya" /></a></p><br><br>
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('sanjayasenanayaka', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypertext-assassin-rss&show_icons=true&locale=en&layout=compact" alt="hypertext-assassin-rss" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypertext-assassin-rss&show_icons=true&locale=en" alt="hypertext-assassin-rss" /></p>
