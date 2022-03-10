@@ -14,9 +14,10 @@
 <a href="https://fb.com/rajith.sanjaya.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajith.sanjaya.942" height="30" width="40" /></a>
 <a href="https://instagram.com/s.m_sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.m_sanjaya" height="30" width="40" /></a>
 <a href="href="mailto:sanjayasenanayaka11@gmail.com"" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/gmail-new.png" alt="s.m_sanjaya" height="40" width="40" /></a>
+<a href="href="https://api.whatsapp.com/send/?phone=%2B94765901293&text&app_absent=0"" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="s.m_sanjaya" height="40" width="40" /></a>
 </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF">
 
