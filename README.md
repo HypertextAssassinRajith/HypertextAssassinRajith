@@ -35,12 +35,6 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF">
 
-## <img src="https://media1.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif?cid=ecf05e47ekc5ox9z1eygzj18bhhwa7ds6h8nat0fa9cvjusi&rid=giphy.gif&ct=s" width="20"> Repositories :
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=Fresh-Fruit&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40)](https://github.com/Hypertext-Assassin-RSS/Fresh-Fruit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=C-plus-plus-Terminal-Calculator&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40)](https://github.com/Hypertext-Assassin-RSS/C-plus-plus-Terminal-Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=First-UI&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40)](https://github.com/Hypertext-Assassin-RSS/First-UI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=NeelaCinema&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40)](https://github.com/Hypertext-Assassin-RSS/NeelaCinema)
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF">
 
