@@ -35,9 +35,6 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF">
 
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF">
-
 ## <img src="https://media1.giphy.com/media/DnhfvCqrDXCaMWaFbQ/giphy.gif?cid=ecf05e47farj6o4d8zanuo4trvvpwif7o7qyh2231hl3q799&rid=giphy.gif&ct=s" width="25"> Support :
 
 <p ><a href="https://www.buymeacoffee.com/Sanjaya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sanjaya"/></a><a href="https://ko-fi.com/SanjayaSenanayaka"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"  alt="SanjayaSenanayaka" /></a>
