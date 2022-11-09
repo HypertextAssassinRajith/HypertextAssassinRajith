@@ -22,7 +22,7 @@
 <a href="mailto:sanjayasenanayaka11@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/gmail-new.png" alt="s.m_sanjaya" height="40" width="40" /></a>
 </p>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF">
+<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF"> -->
 <div style="font-weight:700;font-size: 18px;margin:3px">
 <h2 align="left" style=>Usage  :</h2>
 </div>
@@ -33,7 +33,7 @@
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF">
+<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF"> -->
 
 
 
