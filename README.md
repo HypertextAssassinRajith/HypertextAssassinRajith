@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/sanjaya_rajith" target="blank"><img src="https://img.shields.io/twitter/follow/@sanjaya_rajith?logo=twitter&style=for-the-badge" alt="@sanjaya_rajith" /></a> </p> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=10000&color=FFFF&background=FFD9B200&vCenter=true&width=800&height=100&lines=Hello+there+%F0%9F%91%8B%2C+My+Name+is+Rajith+Sanjaya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=10000&color=003140&background=FFD9B200&vCenter=true&width=800&height=100&lines=Hello+there+%F0%9F%91%8B%2C+My+Name+is+Rajith+Sanjaya)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on Java, Python ,JavaScript
