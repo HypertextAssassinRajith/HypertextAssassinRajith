@@ -29,7 +29,7 @@
 
 <div style="margin:50px;" align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hypertext-Assassin-RSS&&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40)  
+[![Rajith's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <p align="center">
