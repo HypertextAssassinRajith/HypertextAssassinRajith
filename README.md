@@ -29,7 +29,7 @@
 
 <div style="margin:50px;" align="center">
 
-[![Rajith's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rajith's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <p align="center">
