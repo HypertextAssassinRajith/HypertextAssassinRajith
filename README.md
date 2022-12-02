@@ -2,10 +2,7 @@
 <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="800" height="400">
 </p>
 
-
-<!-- <p align="left"> <a href="https://twitter.com/sanjaya_rajith" target="blank"><img src="https://img.shields.io/twitter/follow/@sanjaya_rajith?logo=twitter&style=for-the-badge" alt="@sanjaya_rajith" /></a> </p> -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=10000&color=003140&background=FFD9B200&vCenter=true&width=800&height=100&lines=Hello+there+%F0%9F%91%8B%2C+My+Name+is+Rajith+Sanjaya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=10000&color=blue&background=FFD9B200&vCenter=true&width=800&height=100&lines=Hello+there+%F0%9F%91%8B%2C+My+Name+is+Rajith+Sanjaya)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on Java, Python ,JavaScript
@@ -22,50 +19,19 @@
 <a href="mailto:sanjayasenanayaka11@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/gmail-new.png" alt="s.m_sanjaya" height="40" width="40" /></a>
 </p>
 
-<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF"> -->
-<div style="font-weight:700;font-size: 18px;margin:3px">
-<h2 align="left" style=>Usage  :</h2>
-</div>
+## 💼 Tech Stack
 
+![Java](https://img.shields.io/badge/-java-ea2d2e?&style=for-the-badge&logo=java&logoColor=0074bd) ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-typescript-2f74c0?&style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)   ![Angular](https://img.shields.io/badge/-Angular-b3b3b3?&style=for-the-badge&logo=angular&logoColor=df2e31) ![Spring](https://img.shields.io/badge/-Spring-fff?&style=for-the-badge&logo=spring&logoColor=6db33f)   ![MongoDB](https://img.shields.io/badge/-MongoDB-433120?&style=for-the-badge&logo=mongodb&logoColor=509444)
 
-<p align="center" >
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>          <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
-
-<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF"> -->
-
-
-
-<!-- <h2 align="left">Database Service:</h2>
-<p align="center"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
-</p>
-
-<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF"> -->
-
-<div style="font-weight:700;font-size: 18px;margin:3px;">
-<h2 align="left">Tools and Services:</h2>
-</div>
-
-<p align="center"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#5F4B8BFF"> -->
-
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Sanjaya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sanjaya" /></a><a href="https://ko-fi.com/sanjayasenanayaka"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sanjayasenanayaka" /></a></p><br><br> -->
-
-<!-- <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypertext-assassin-rss&show_icons=true&locale=en&layout=compact" alt="hypertext-assassin-rss" /></p> -->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypertext-assassin-rss&show_icons=true&locale=en&theme=radical" alt="hypertext-assassin-rss" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypertext-assassin-rss&theme=radical" alt="hypertext-assassin-rss" />
+|---|---|
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypertext-assassin-rss&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajithsanjaya&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div style="margin:50px;" align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hypertext-assassin-rss&show_icons=true&locale=en&theme=radical" alt="hypertext-assassin-rss" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypertext-assassin-rss&theme=radical" alt="hypertext-assassin-rss" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hypertext-Assassin-RSS&&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40)  
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 
