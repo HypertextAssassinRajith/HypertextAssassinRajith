@@ -29,9 +29,8 @@
 
 <div style="margin:50px;" align="center">
 
-[![Rajith's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Rajith's github activity graph](https://github-readme-activity-graph.hypertext-assas.repl.co/graph?username=Hypertext-Assassin-RSS&theme=radical)
 </div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
