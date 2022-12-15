@@ -25,7 +25,7 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hypertext-assassin-rss&show_icons=true&locale=en&theme=radical" alt="hypertext-assassin-rss" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypertext-assassin-rss&theme=radical" alt="hypertext-assassin-rss" /> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <p align="center"><br />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypertext-assassin-rss&theme=radical)</p>                                | ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajithsanjaya&theme=radical)                              |
+| <p align="center"><br />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypertext-assassin-rss&theme=radical)</p>                                | ![Rajith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajithsanjaya&hide=other&theme=radical)                       |
 
 
 ## ⚒️ Repo
