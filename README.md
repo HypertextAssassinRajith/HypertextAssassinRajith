@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="800" height="400">
-</p>
+</p>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=10000&color=blue&background=FFD9B200&vCenter=true&width=800&height=100&lines=Hello+there+%F0%9F%91%8B%2C+My+Name+is+Rajith+Sanjaya)](https://git.io/typing-svg)
 
