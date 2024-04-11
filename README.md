@@ -38,7 +38,6 @@
 
 [//]: # (![Rajith's github activity graph]&#40;https://github-readme-activity-graph.hypertext-assas.repl.co/graph?username=Hypertext-Assassin-RSS&theme=radical&#41;)
 
-![Rajith's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hypertext-Assassin-RSS&theme=radical&bg_color=141321&custom_title=Rajith%20Sanjaya's%20Contribution%20Graph)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
