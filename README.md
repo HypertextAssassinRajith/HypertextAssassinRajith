@@ -31,11 +31,11 @@
 <!-- | <p align="center"><br />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypertext-assassin-rss&theme=radical)</p>                                | ![Rajith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajithsanjaya&hide=other&theme=radical)                       | -->
 
 
-## ⚒️ Repo
+<!-- ## ⚒️ Repo
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=EasyCarRental&theme=radical)](https://github.com/Hypertext-Assassin-RSS/EasyCarRental) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=React-Native_Car-Details&theme=radical)](https://github.com/Hypertext-Assassin-RSS/React-Native_Car-Details) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=JavaEE_POS&theme=radical)](https://github.com/Hypertext-Assassin-RSS/JavaEE_POS)       | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=PlayTechChatApp&theme=radical)](https://github.com/Hypertext-Assassin-RSS/PlayTechChatApp)                  |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=MyPortfolio&theme=radical)](https://github.com/Hypertext-Assassin-RSS/MyPortfolio)     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=JS_Game&theme=radical)](https://github.com/Hypertext-Assassin-RSS/JS_Game)                                   |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=MyPortfolio&theme=radical)](https://github.com/Hypertext-Assassin-RSS/MyPortfolio)     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=JS_Game&theme=radical)](https://github.com/Hypertext-Assassin-RSS/JS_Game)                                   | -->
 
 
 [//]: # (![Rajith's github activity graph]&#40;https://github-readme-activity-graph.hypertext-assas.repl.co/graph?username=Hypertext-Assassin-RSS&theme=radical&#41;)
