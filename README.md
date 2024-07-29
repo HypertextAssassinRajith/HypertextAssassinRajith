@@ -44,7 +44,11 @@
 
 [![Rajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hypertext-assassin-rss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake animation](https://github.com/Hypertext-Assassin-RSS/Hypertext-Assassin-RSS/blob/output/github-contribution-grid-snake2.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hypertext-Assassin-RSS/Hypertext-Assassin-RSS/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hypertext-Assassin-RSS/Hypertext-Assassin-RSS/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 [//]: # (![Rajith's github activity graph]&#40;https://github-readme-activity-graph.hypertext-assas.repl.co/graph?username=Hypertext-Assassin-RSS&theme=radical&#41;)
