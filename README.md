@@ -25,6 +25,9 @@
 <a href="mailto:sanjayasenanayaka11@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/gmail-new.png" alt="s.m_sanjaya" height="40" width="40" /></a>
 </p>
 
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
+
 ## 💼 Tech Stack
 
 ![Java](https://img.shields.io/badge/-java-ea2d2e?&style=for-the-badge&logo=java&logoColor=0074bd) ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-typescript-2f74c0?&style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-b3b3b3?&style=for-the-badge&logo=angular&logoColor=df2e31) ![Spring](https://img.shields.io/badge/-Spring-fff?&style=for-the-badge&logo=spring&logoColor=6db33f)   ![MongoDB](https://img.shields.io/badge/-MongoDB-433120?&style=for-the-badge&logo=mongodb&logoColor=509444)
