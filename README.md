@@ -12,6 +12,9 @@
 - 💬 Ask me about Java, HTML and CSS 
 - 📫 How to reach me: You Can Contact Me From This 👇 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 How to reach me 👇
 
 <p align="center">
@@ -21,9 +24,6 @@
 <a href="https://stackoverflow.com/users/rajith-sanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rajith-sanjaya" height="30" width="40" /></a>
 <a href="mailto:sanjayasenanayaka11@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/gmail-new.png" alt="s.m_sanjaya" height="40" width="40" /></a>
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 💼 Tech Stack
 
