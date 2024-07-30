@@ -6,82 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=6216CA&center=true&width=800&height=75&lines=Hello+My+Name+is++Rajith+Sanjaya+%F0%9F%91%8B+%2C+How+are+you+%3F)](https://git.io/typing-svg)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 186 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 48 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                294 commits         ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-🌆 Daytime                435 commits         ███████████░░░░░░░░░░░░░░   43.67 % 
-🌃 Evening                252 commits         ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Tuesday                  141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Wednesday                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Thursday                 199 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Friday                   149 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Sunday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-HTML                     2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Markdown                 1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████░░░░░░░░   66.33 % 
-Android Studio           3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.56 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               22 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
-Java                     14 repos            ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Hypertext-Assassin-RSS/Hypertext-Assassin-RSS/main/assets/bar_graph.png)
-
-
- Last Updated on 30/07/2024 08:59:16 UTC
-<!--END_SECTION:waka-->
-
 <!-- - 🔭 I’m currently working on Java, Python ,JavaScript
 - 🌱 I’m currently learning New Computer Languages  
 - 👯 I’m looking to collaborate on Ever Computer Language I Interest 
@@ -98,8 +22,8 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <a href="mailto:sanjayasenanayaka11@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/gmail-new.png" alt="s.m_sanjaya" height="40" width="40" /></a>
 </p>
 
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 💼 Tech Stack
 
