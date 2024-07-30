@@ -39,5 +39,5 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: Rajith Sanjaya # optional
-          AUTHOR_EMAIL: Ysanjayasenanayaka11@gmail.com # optional
+          AUTHOR_EMAIL: sanjayasenanayaka11@gmail.com # optional
           # you can populate email-id with secrets instead
