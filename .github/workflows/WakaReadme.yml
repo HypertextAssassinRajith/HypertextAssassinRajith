@@ -18,7 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
+          #API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: https://github.com/Hypertext-Assassin-RSS/Hypertext-Assassin-RSS # optional
           ### content
           SHOW_TITLE: true # optional
