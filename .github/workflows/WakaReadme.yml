@@ -23,4 +23,6 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
+          IGNORED_LANGUAGES: "Binary YAML JSON TOML"
+          
           
