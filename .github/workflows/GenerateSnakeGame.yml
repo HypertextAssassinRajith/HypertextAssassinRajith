@@ -1,4 +1,4 @@
-name: Generate SnakeGame
+name: Generate Snake Game
 
 on:
   # run automatically every 24 hours
