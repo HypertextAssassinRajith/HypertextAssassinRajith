@@ -2,10 +2,6 @@ name: Waka Readme
 
 
 on:
-  # run on every push to any branch
-  push:
-    branches:
-    - '**' # This will match all branches
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
