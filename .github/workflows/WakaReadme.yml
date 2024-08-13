@@ -25,6 +25,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
           IGNORED_LANGUAGES: "Binary YAML JSON TOML Markdown"
-          SYMBOL_VERSION: 1
+          SYMBOL_VERSION: 2
           
           
