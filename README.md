@@ -1,12 +1,7 @@
 <p align="center">
 <!-- <img src="https://github.com/Hypertext-Assassin-RSS/Hypertext-Assassin-RSS/assets/79979236/413db0fe-ec42-421d-8982-6937ef659ce8"> -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="720" width="1020">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" >
 </p>
-
-
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=6216CA&center=true&width=800&height=75&lines=Hello+My+Name+is++Rajith+Sanjaya+%F0%9F%91%8B+%2C+How+are+you+%3F)](https://git.io/typing-svg)
 
