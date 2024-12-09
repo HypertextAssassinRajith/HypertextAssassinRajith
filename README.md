@@ -7,6 +7,7 @@
 
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=6216CA&center=true&width=800&height=75&lines=Hello+My+Name+is++Rajith+Sanjaya+%F0%9F%91%8B+%2C+How+are+you+%3F)](https://git.io/typing-svg)
 
 <!-- - 🔭 I’m currently working on Java, Python ,JavaScript
