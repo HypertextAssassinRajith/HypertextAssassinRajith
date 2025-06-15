@@ -10,7 +10,6 @@
 - 💬 Ask me about Java, HTML and CSS 
 - 📫 How to reach me: You Can Contact Me From This 👇 -->
 
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%203%20mins-blue)
 
