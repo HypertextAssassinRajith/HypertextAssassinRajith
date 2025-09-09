@@ -1,7 +1,6 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="800" height="400">
 </p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=6216CA&center=true&width=800&height=75&lines=Hello+My+Name+is++Rajith+Sanjaya+%F0%9F%91%8B+%2C+How+are+you+%3F)](https://git.io/typing-svg)
 
 <!-- - 🔭 I’m currently working on Java, Python ,JavaScript
