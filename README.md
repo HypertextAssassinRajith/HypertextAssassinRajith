@@ -11,6 +11,8 @@
 - 📫 How to reach me: You Can Contact Me From This 👇 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C934%20hrs%2013%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -40,7 +42,7 @@ Chrome                   2 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 ```
 
 
- Last Updated on 18/04/2026 19:18:17 UTC
+ Last Updated on 19/04/2026 19:17:18 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me 👇
