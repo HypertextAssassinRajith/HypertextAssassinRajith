@@ -5,8 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=6216CA&center=true&width=800&height=75&lines=Hello+My+Name+is++Rajith+Sanjaya+%F0%9F%91%8B+%2C+How+are+you+%3F)](https://git.io/typing-svg)
 
 <!-- - 🔭 I’m currently working on Java, Python ,JavaScript
-- 🌱 I’m currently learning New Computer Languages  
-- 👯 I’m looking to collaborate on Ever Computer Language I Interest 
+- 🔭 Currently building **VaultEd**, a private LMS with OTP login and secure video delivery
+- 🛠️ Automating fingerprint-based access control with Hikvision + n8n + Google Sheets
+- 🧩 Built a custom WordPress plugin for QR-based print correction pages
+- 🌱 Exploring self-hosted infra (Xray/VPN, Synology NAS, Pelican panels)
 - 💬 Ask me about Java, HTML and CSS 
 - 📫 How to reach me: You Can Contact Me From This 👇 -->
 
@@ -61,8 +63,10 @@ Antigravity IDE          6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-| <img align="center" src="https://github-stats-extended.vercel.app/api?username=hypertextassassinrajith&show_icons=true&theme=midnight-purple&border_radius=16" alt="hypertext-assassin-rss" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypertextassassinrajith&theme=midnight-purple&border_radius=16" alt="hypertext-assassin-rss" /> |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=hypertextassassinrajith&show_icons=true&theme=midnight-purple&border_radius=16" alt="hypertext-assassin-rss" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hypertextassassinrajith&theme=midnight-purple&border_radius=16" alt="hypertext-assassin-rss" height="195" />
+</p>
 <!-- | <p align="center"><br />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypertext-assassin-rss&theme=radical)</p>                                | ![Rajith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajithsanjaya&hide=other&theme=radical)                       | -->
 
 
