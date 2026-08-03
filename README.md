@@ -47,29 +47,6 @@ VS Code                  14 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Excel                    5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.34 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 27 mins (1.62%)
-
-✍️ 933 lines written by AI, 12 lines written by hand (98.73% AI-written)
-
-🔤 1,743,561 Input Tokens, 19,238 Output Tokens
-
-💵 $9.29 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 13 AI Prompts
-
-GPT                      835 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   89.21 % 
-Opus                     101 lines           ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.79 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.73% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.09% of changed lines were hand-edited
-```
-
 
  Last Updated on 02/08/2026 19:47:53 UTC
 <!--END_SECTION:waka-->
