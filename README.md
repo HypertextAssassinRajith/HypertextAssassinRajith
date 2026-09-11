@@ -82,7 +82,7 @@ No AI Coding Activity Tracked This Week
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=MyPortfolio&theme=radical)](https://github.com/Hypertext-Assassin-RSS/MyPortfolio)     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypertext-Assassin-RSS&repo=JS_Game&theme=radical)](https://github.com/Hypertext-Assassin-RSS/JS_Game)                                   | -->
 
 
-![Rajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hypertextassassinrajith&theme=react-dark&hide_title=true&radius=16&bg_color=000000&line=9745f5&point=ffffff)
+<!-- ![Rajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hypertextassassinrajith&theme=react-dark&hide_title=true&radius=16&bg_color=000000&line=9745f5&point=ffffff) -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hypertext-Assassin-RSS/Hypertext-Assassin-RSS/output/github-contribution-grid-snake.svg" />
