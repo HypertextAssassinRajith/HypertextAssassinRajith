@@ -44,28 +44,6 @@ XML                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Antigravity IDE          1 hr 37 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 mins (14.39%)
-
-✍️ 0 lines written by AI, 450 lines written by hand (0.0% AI-written)
-
-🔤 111,884 Input Tokens, 4,920 Output Tokens
-
-💵 $0.28 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Gemini                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 
  Last Updated on 27/10/2026 22:37:32 UTC
 <!--END_SECTION:waka-->
