@@ -13,7 +13,7 @@
 - 📫 How to reach me: You Can Contact Me From This 👇 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%209%20mins-blue?style=flat)
+[![wakatime](https://wakatime.com/badge/user/677c148c-7223-4d79-acf8-a9981a6e6c5d.svg)](https://wakatime.com/@677c148c-7223-4d79-acf8-a9981a6e6c5d)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2054%20mins-blue?style=flat)
 
