@@ -1,11 +1,11 @@
 name: Waka Readme
 
-
 on:
   schedule:
-    # Runs at 12am IST
-    #- cron: '30 18 * * *'
+    # Runs at 12am IST (UTC+05:30)
+    - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -25,6 +25,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
           IGNORED_LANGUAGES: "Binary YAML JSON TOML Markdown"
-          SYMBOL_VERSION: 2
-          
-          
+          SYMBOL_VERSION: "2"
